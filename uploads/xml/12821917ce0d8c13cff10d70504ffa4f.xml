@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListaDeclaracoes>
+    <declaracaoImportacao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>1</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00000</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000174758</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000174758</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>CPT</condicaoVendaIncoterm>
+            <condicaoVendaLocal>BRASILIA</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000507727</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000001640922</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>85176294</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000001200000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>UNIDADE</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>TRADUT.D/PROTOCOLOS P/INTERCONEXÃO D/REDES</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000002680000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>099</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>Boston</fabricanteCidade>
+            <fabricanteEstado>Massachusetts</fabricanteEstado>
+            <fabricanteLogradouro>126 Brookline Ave, 3rd Floor Boston, MA</fabricanteLogradouro>
+            <fabricanteNome>Grandstream Network Co,</fabricanteNome>
+            <fabricanteNumero>126</fabricanteNumero>
+            <fornecedorCidade>Winter Springs</fornecedorCidade>
+            <fornecedorEstado>FLORIDA</fornecedorEstado>
+            <fornecedorLogradouro>102 Deer Song Dr</fornecedorLogradouro>
+            <fornecedorNome>AKM TRADING</fornecedorNome>
+            <fornecedorNumero>102</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000015204</freteValorMoedaNegociada>
+            <freteValorReais>000000000049138</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000262547</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000262547</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000262547</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000001640922</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>00</iiFundamentoLegalCodigo>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>1</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>RECOLHIMENTO INTEGRAL</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>01500</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000285520</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000285520</ipiAliquotaValorRecolher>
+            <ipiRegimeTributacaoCodigo>4</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>SEM BENEFICIO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>gra-ucm-6202 - Grandstream IPPBX 2 FXO UCM6202 ( Gateway de Telefonia, 2 portas de telefone FXO, interface de rede: Duas portas Gigabit RJ45 de suporte PoE Plus (IEEE 802.3af-2009) NAT Router: é (suporte ao modo de roteador e switch), portos periféricos: USB, SD, indicação de LED: Carregar / carregada, rede, linha PSTN, USB, SD, display gráfico 128 x 32, com o botão OK ou DOWN, Redefinir Switch) Serial Numbers:                              &#xD;23HQWR2G509397E2  23HQWR2G509397E3 23HQWR2G509397E5                                                                                                                                            &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000000300000</quantidade>
+                <unidadeMedida>UNIDADE             </unidadeMedida>
+                <valorUnitario>00000000002025000000</valorUnitario>
+            </mercadoria>
+            <mercadoria>
+                <descricaoMercadoria>gra-ucm-6104 - Grandstream IPPBX 4 FXO UCM6104 (GATEWAY DE TELEFONIA IP-PBX, PORTAS GIGABIT, PLANOS DE DISCAGEM FLEXÍVEIS, ROTEAMENTO DE CHAMADAS, O SITE DE TROCA DE TRÁFEGO, GRAVAÇÃO DE CHAMADAS, SEM TAXAS DE LICENCIAMENTO: A SÉRIE UCM6100 É UMA SOLUÇÃO TURNKEY COM TODOS OS RECURSOS INCLUÍDOS FACILIDADE DE INSTALAÇÃO / MANAGEMENT: UCM6100 SÉRIE ESTÁ CONFIGURADO E GERIDO ATRAVÉS DE UMA INTERFACE WEB SIMPLES) Serial Numbers: 21AWLS8G40904FD8  21AWLS8G40904FD9                                            </descricaoMercadoria>
+                <numeroSequencialItem>02</numeroSequencialItem>
+                <quantidade>00000000200000</quantidade>
+                <unidadeMedida>UNIDADE             </unidadeMedida>
+                <valorUnitario>00000000002315000000</valorUnitario>
+            </mercadoria>
+            <mercadoria>
+                <descricaoMercadoria>gra-ucm-6108 - Grandstream IPPBX 8 FXO UCM6108 (Gateway de Telefonia, SIP (RFC3261) Porta FXO 8 Porta LAN 1 (10/100/1000 Mbps) PoE Porta WAN, 1 (10/100/1000 Mbps) PoE Porta USB, 1 Porta SD, NAT Router Sim LCD 128x3, Chamadas em Simultâneo Até 60, DTMF, In Audio, RFC2833, and SIP INFO) Serial Numbers:                                                                                                                                               &#xD;21AWLP9FA0840203  21AWLP9FA0840204  21AWLP9FC0883BE2                                                                                                                                           &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>03</numeroSequencialItem>
+                <quantidade>00000000300000</quantidade>
+                <unidadeMedida>UNIDADE             </unidadeMedida>
+                <valorUnitario>00000000004045000000</valorUnitario>
+            </mercadoria>
+            <mercadoria>
+                <descricaoMercadoria>gra-ucm-6116 - Grandstream IPPBX UCM6116 (Gateway de Telefonia, é um poderoso aparelho de PABX IP que suporta até 500 usuários, 60 chamadas simultâneas, 3 pontes de conferência e 32 participantes da conferência. O UCM6116 possui porta de rede LAN / WAN Gigabit com PoE integrado, até 50 opções de troncos SIP, contas com controle de roteamento de chamada flexível, 2 portas FXS para fax ou telefones analógicos, 16 portas FXO para linhas POTS.)&#xD;Serial Numbers: 21AWL5ME4062DD85                                                                                                                                                               &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>04</numeroSequencialItem>
+                <quantidade>00000000100000</quantidade>
+                <unidadeMedida>UNIDADE             </unidadeMedida>
+                <valorUnitario>00000000004793700000</valorUnitario>
+            </mercadoria>
+            <mercadoria>
+                <descricaoMercadoria>gra-ucm-6510 - Grandstream IPPBX UCM6510 (Gateway de Telefonia, é um PBX IP para redes E1/T1/J1 que oferece comunicação unificada e proteção de segurança de nível empresarial para grandes corporações, pequenas e médias empresas (PMEs), Portas FXS de telefone analógico Portas FXO de linha PSTN 2 portas RJ11 (as duas com capacidade de uso de linha pstn em caso de falta de energia) Interface T1/E1/J1 1 porta RJ45 Interfaces de rede 3 portas: 1 rede local / 1 rede remota / 1 supervivência. Duas portas Ethernet RJ45 de 10/100/1000Mbps com PoE Plus integrado (IEEE802.3at-2009) Roteador NAT Sim Portas para periféricos USB, SD. Indicadores de LED Energia 1/2, PoE, USB, SD, T1/E1/J1(J1 está ASD), FXS 1/2, FXO 1/2, rede local, rede remota, supervivência. Tela LCD LCD de 128x32 pontos com botão BAIXO &amp; OK) Serial Numbers:                                                                                                                                &#xD;23HQWGAG509311DD 23HQWGAG509311F7  23HQWGAG509311F8                                                                                                                                            &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>05</numeroSequencialItem>
+                <quantidade>00000000300000</quantidade>
+                <unidadeMedida>UNIDADE             </unidadeMedida>
+                <valorUnitario>00000000007713000000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>001</numeroAdicao>
+            <numeroDI>1613434636</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>160</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>CHINA, REPUBLICA POPULAR</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>00</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000001640922</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>1</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>RECOLHIMENTO INTEGRAL</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000034459</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000034459</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000049138</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>50772700000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Não há vinculação entre comprador e vendedor.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>1</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>00965</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00000</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000067069</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000067069</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>CPT</condicaoVendaIncoterm>
+            <condicaoVendaLocal>BRASILIA</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000215050</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000695020</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>84715010</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000005000000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>UNIDADE</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>MÁQS.PROCESS.DIGITAIS,PEQ.CAPAC.,FOB&lt;=US$12500</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000375000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>099</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>GyeongGi</fabricanteCidade>
+            <fabricanteEstado>GyeongGi</fabricanteEstado>
+            <fabricanteLogradouro>475-1 ManAnRo, ManAnGu, AnYang,</fabricanteLogradouro>
+            <fabricanteNome>Odroid HardKernel Co</fabricanteNome>
+            <fabricanteNumero>475</fabricanteNumero>
+            <fornecedorCidade>Winter Springs</fornecedorCidade>
+            <fornecedorEstado>FLORIDA</fornecedorEstado>
+            <fornecedorLogradouro>102 Deer Song Dr</fornecedorLogradouro>
+            <fornecedorNome>AKM Trading, LLC</fornecedorNome>
+            <fornecedorNumero>102</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000002127</freteValorMoedaNegociada>
+            <freteValorReais>000000000006875</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000111203</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000111203</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000111203</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000695020</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>00</iiFundamentoLegalCodigo>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>1</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>RECOLHIMENTO INTEGRAL</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>01500</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000120933</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000120933</ipiAliquotaValorRecolher>
+            <ipiRegimeTributacaoCodigo>4</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>SEM BENEFICIO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>odr-c2 - Odroid-C2 (Mini computador de placa única quad-core de 64 bits (SBC), Amlogic ARM® Cortex®-A53(ARMv8) 2Ghz quad core CPUs, Mali-450 GPU (3 Pixel-processors + 2 Vertex shader processors), 2Gbyte, DDR3 SDRAM, Gigabit Ethernet, HDMI 2.0 4K/60Hz display, H.265 4K/60FPS and H.264 4K/30FPS capable VPU, 40pin GPIOs + 7pin I2S, eMMC5.0 HS400 Flash Storage slot / UHS-1 SDR50 MicroSD Card slot, USB 2.0 Host x 4, USB OTG x 1 (power + data capable), Infrared(IR) Receiver)                                 </descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000005000000</quantidade>
+                <unidadeMedida>UNIDADE             </unidadeMedida>
+                <valorUnitario>00000000000430100000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>002</numeroAdicao>
+            <numeroDI>1613434636</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>190</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>COREIA (DO SUL), REPUBLICA DA</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>00</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000695020</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>1</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>RECOLHIMENTO INTEGRAL</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000014595</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000014595</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000006875</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>21505000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Não há vinculação entre comprador e vendedor.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>1</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>00965</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00000</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000161069</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000161069</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>CPT</condicaoVendaIncoterm>
+            <condicaoVendaLocal>BRASILIA</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000516450</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000001669114</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>84715010</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000015000000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>UNIDADE</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>MÁQS.PROCESS.DIGITAIS,PEQ.CAPAC.,FOB&lt;=US$12500</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000001125000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>099</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>Shenzhen</fabricanteCidade>
+            <fabricanteEstado>GUANGDONG</fabricanteEstado>
+            <fabricanteLogradouro>JINDI INDUSTRIAL ZONE,FUTIA</fabricanteLogradouro>
+            <fabricanteNome>Shenzhen Embest Technology Co</fabricanteNome>
+            <fabricanteNumero>158</fabricanteNumero>
+            <fornecedorCidade>Winter Springs</fornecedorCidade>
+            <fornecedorEstado>FLORIDA</fornecedorEstado>
+            <fornecedorLogradouro>102 Deer Song Dr</fornecedorLogradouro>
+            <fornecedorNome>AKM Trading, LLC</fornecedorNome>
+            <fornecedorNumero>708</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000006382</freteValorMoedaNegociada>
+            <freteValorReais>000000000020627</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>01600</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000267058</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000267058</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000267058</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000001669114</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>00</iiFundamentoLegalCodigo>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>1</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>RECOLHIMENTO INTEGRAL</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>01500</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000290425</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000290425</ipiAliquotaValorRecolher>
+            <ipiRegimeTributacaoCodigo>4</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>SEM BENEFICIO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>raspberry pi 3 - Rasberry PI 3 (MINI PC, COM PROCESSADOR DE A 1.2GHz quad-core CPU ARMv8 64-bit, 802.11n Wireless LAN, Bluetooth 4.1, Bluetooth Low Energy (BLE), 4 portas USB, 40 pinos GPIO, porta HDMI completa, porta Ethernet, Combinado jack de 3,5 mm de áudio e vídeo composto, interface da câmera (CSI), interface de exibição (DSI), slot para cartão Micro SD (agora push-pull em vez de push-push), núcleo gráfico VideoCore IV 3D)            &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000015000000</quantidade>
+                <unidadeMedida>UNIDADE             </unidadeMedida>
+                <valorUnitario>00000000000344300000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>003</numeroAdicao>
+            <numeroDI>1613434636</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>160</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>CHINA, REPUBLICA POPULAR</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>00</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000001669114</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>1</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>RECOLHIMENTO INTEGRAL</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000035051</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000035051</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000020627</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>51645000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Não há vinculação entre comprador e vendedor.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>1</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>01065</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00000</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000099596</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000099596</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>CPT</condicaoVendaIncoterm>
+            <condicaoVendaLocal>BRASILIA</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000289359</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000935179</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>85171891</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000006300000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>UNIDADE</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>Outs.telefones não combinados c/outs.aparelhos</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000006360000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>099</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>Xiamen</fabricanteCidade>
+            <fabricanteEstado>Xiamen</fabricanteEstado>
+            <fabricanteLogradouro>4th-5th Floor,South Building,No.63 Wang</fabricanteLogradouro>
+            <fabricanteNome>Yealink Network Co</fabricanteNome>
+            <fabricanteNumero>4</fabricanteNumero>
+            <fornecedorCidade>Winter Springs</fornecedorCidade>
+            <fornecedorEstado>FLORIDA</fornecedorEstado>
+            <fornecedorLogradouro>102 Deer Song Dr</fornecedorLogradouro>
+            <fornecedorNome>AKM Trading, LLC</fornecedorNome>
+            <fornecedorNumero>102</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000036081</freteValorMoedaNegociada>
+            <freteValorReais>000000000116612</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>02000</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000187035</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000187035</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000187035</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000935179</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>00</iiFundamentoLegalCodigo>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>1</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>RECOLHIMENTO INTEGRAL</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>01000</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000112221</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000112221</ipiAliquotaValorRecolher>
+            <ipiRegimeTributacaoCodigo>4</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>SEM BENEFICIO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>yea-sip-t21p-e2 - Yealink SIP-T21P-E2 IP Phone Phone (TELEFONE IP, USADO EM TELEFONIA DIGITAL, TEM ALTO DESEMPENHO. POSSUI LCD 132 X 64 PIXELS, PORTAS DE REDE 10/100 MBPS DUPLA COM SUPORTE PARA IPV6. O SIP-T21P, SUPORTA 2 CONTA VOIP.) Serial Numbers:   2121116050005411 2121116050005573 2121116050005595 2121116050005657 2121116050005729                                                                                                           &#xD;2121116050005412 2121116050005574 2121116050005596 2121116050005658 2121116050005730                                                                                                           &#xD;2121116050005413 2121116050005575 2121116050005597 2121116050005659 2121116050005761                                                                                                           &#xD;2121116050005414 2121116050005576 2121116050005598 2121116050005660 2121116050005762                                                                                                           &#xD;2121116050005415 2121116050005577 2121116050005599 2121116050005721 2121116050005763                                                                                                           &#xD;2121116050005416 2121116050005578 2121116050005600 2121116050005722 2121116050005764                                                                                                           &#xD;2121116050005417 2121116050005579 2121116050005651 2121116050005723 2121116050005765                                                                                                           &#xD;2121116050005418 2121116050005580 2121116050005652 2121116050005724 2121116050005766                                                                                                           &#xD;2121116050005419 2121116050005591 2121116050005653 2121116050005725 2121116050005767                                                                                                           &#xD;2121116050005420 2121116050005592 2121116050005654 2121116050005726 2121116050005768                                                                                                           &#xD;2121116050005571 2121116050005593 2121116050005655 2121116050005727 2121116050005769                                                                                                           &#xD;2121116050005572 2121116050005594 2121116050005656 2121116050005728 2121116050005770                                                                                                           &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000006000000</quantidade>
+                <unidadeMedida>UNIDADE             </unidadeMedida>
+                <valorUnitario>00000000000446500000</valorUnitario>
+            </mercadoria>
+            <mercadoria>
+                <descricaoMercadoria>yea-sip-t23g - Yealink SIP-T23G IP Phone (Telefone IP, 3 contas SIP, Retenção de chamadas, mudo, DND, One-touch de discagem rápida, hotline, Chamada para a frente, chamada em espera, transferência de chamada, escuta Group, SMS, Redial, chamada de retorno, a resposta auto, Local 3-way conferência, chamada IP direta sem proxy SIP, selecção de tons de toque / importação / delete, Definir data e hora manualmente ou automaticamente, plano de discagem, fora gancho linha quente, Navegador XML, Ação URL / URI, Integrado Screenshots, RTCP-XR)  Serial Numbers:                                                                                                                                             &#xD;4123216062103845 4123216062103849 4123216062103850                                                                                                                                             &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>02</numeroSequencialItem>
+                <quantidade>00000000300000</quantidade>
+                <unidadeMedida>UNIDADE             </unidadeMedida>
+                <valorUnitario>00000000000715300000</valorUnitario>
+            </mercadoria>
+            <nomenclaturaValorAduaneiro>
+                <atributo>AB</atributo>
+                <especificacao>9999</especificacao>
+                <nivelNome>SUBITEM             </nivelNome>
+            </nomenclaturaValorAduaneiro>
+            <nomenclaturaValorAduaneiro>
+                <atributo>AA</atributo>
+                <especificacao>0001</especificacao>
+                <nivelNome>SUBITEM             </nivelNome>
+            </nomenclaturaValorAduaneiro>
+            <numeroAdicao>004</numeroAdicao>
+            <numeroDI>1613434636</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>160</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>CHINA, REPUBLICA POPULAR</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>00</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000935179</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>1</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>RECOLHIMENTO INTEGRAL</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000019638</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000019638</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000116612</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>28935900000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Não há vinculação entre comprador e vendedor.</vinculoCompradorVendedor>
+        </adicao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>1</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>00965</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00000</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000027632</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000027632</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>CPT</condicaoVendaIncoterm>
+            <condicaoVendaLocal>BRASILIA</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>METODO 1 - ART. 1 DO ACORDO (DECRETO 92930/86)</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>220</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>DOLAR DOS EUA</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000000088600</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000000286346</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>COM COBERTURA CAMBIAL E PAGAMENTO FINAL A PRAZO DE ATE' 180</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>REVENDA</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>85183000</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000004000000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>UNIDADE</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>FONES D/OUVIDO(AUSCULTADORES)MMO C/MICROF.</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000000600000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>099</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>Xiamen</fabricanteCidade>
+            <fabricanteEstado>Xiamen</fabricanteEstado>
+            <fabricanteLogradouro>4th-5th Floor,South Building,No.63 Wang</fabricanteLogradouro>
+            <fabricanteNome>Yealink Network Co</fabricanteNome>
+            <fabricanteNumero>4</fabricanteNumero>
+            <fornecedorCidade>Winter Springs</fornecedorCidade>
+            <fornecedorEstado>FLORIDA</fornecedorEstado>
+            <fornecedorLogradouro>102 Deer Song Dr</fornecedorLogradouro>
+            <fornecedorNome>AKM Trading, LLC</fornecedorNome>
+            <fornecedorNumero>102</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>000</freteMoedaNegociadaCodigo>
+            <freteValorMoedaNegociada>000000000003403</freteValorMoedaNegociada>
+            <freteValorReais>000000000011001</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>02000</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000000057269</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000000057269</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000000057269</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000000286346</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>00</iiFundamentoLegalCodigo>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>1</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>RECOLHIMENTO INTEGRAL</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>01500</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000051542</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000051542</ipiAliquotaValorRecolher>
+            <ipiRegimeTributacaoCodigo>4</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>SEM BENEFICIO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>yea-yhs32 - Yealink YHS32 IP Phone Headset (Fone com microfone heatset, ele é compatível com toda a gama de telefones IP Yealink, possui cabeça de aço maleável e microfone bem ajustável.) Serial Numbers:                                                  YHS3215100004422  YHS3215100004429  YHS3216040102946  YHS3216040102954  YHS3216050002090                                                                                                       &#xD;YHS3215100004421  YHS3215100004430 YHS3216040102947  YHS3216040102955  YHS3216050002099                                                                                                        &#xD;YHS3215100004423  YHS3215100004440 YHS3216040102948  YHS3216040102956  YHS3216050002100                                                                                                        &#xD;YHS3215100004424 YHS3216040102941  YHS3216040102949 YHS3216040102957  YHS3216060000126                                                                                                         &#xD;YHS3215100004425  YHS3216040102942  YHS3216040102950  YHS3216040102958  YHS3216060000127                                                                                                       &#xD;YHS3215100004426  YHS3216040102943  YHS3216040102951  YHS3216040102959  YHS3216060000128                                                                                                       &#xD;YHS3215100004427  YHS3216040102944  YHS3216040102952  YHS3216040102960  YHS3216060000129                                                                                                       &#xD;YHS3215100004428  YHS3216040102945  YHS3216040102953  YHS3216050002089 YHS3216060000130                                                                                                        &#xD;</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000004000000</quantidade>
+                <unidadeMedida>UNIDADE             </unidadeMedida>
+                <valorUnitario>00000000000221500000</valorUnitario>
+            </mercadoria>
+            <numeroAdicao>005</numeroAdicao>
+            <numeroDI>1613434636</numeroDI>
+            <numeroLI>0000000000</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>249</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>ESTADOS UNIDOS</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>160</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>CHINA, REPUBLICA POPULAR</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>00</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000000286346</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>1</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>RECOLHIMENTO INTEGRAL</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00210</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000006013</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000006013</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+            <seguroValorMoedaNegociada>000000000000000</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000000000</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000000011001</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000000000</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>8860000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Não há vinculação entre comprador e vendedor.</vinculoCompradorVendedor>
+        </adicao>
+        <armazem>
+            <nomeArmazem>RA        </nomeArmazem>
+        </armazem>
+        <armazenamentoRecintoAduaneiroCodigo>1201201</armazenamentoRecintoAduaneiroCodigo>
+        <armazenamentoRecintoAduaneiroNome>TECA-AEROPORTO SANTA GENOVEVA-GOIANIA</armazenamentoRecintoAduaneiroNome>
+        <armazenamentoSetor>001</armazenamentoSetor>
+        <canalSelecaoParametrizada>001</canalSelecaoParametrizada>
+        <caracterizacaoOperacaoCodigoTipo>1</caracterizacaoOperacaoCodigoTipo>
+        <caracterizacaoOperacaoDescricaoTipo>Importação Própria</caracterizacaoOperacaoDescricaoTipo>
+        <cargaDataChegada>20160827</cargaDataChegada>
+        <cargaNumeroAgente>N/I</cargaNumeroAgente>
+        <cargaPaisProcedenciaCodigo>160</cargaPaisProcedenciaCodigo>
+        <cargaPaisProcedenciaNome>CHINA, REPUBLICA POPULAR</cargaPaisProcedenciaNome>
+        <cargaPesoBruto>000000013100000</cargaPesoBruto>
+        <cargaPesoLiquido>000000011140000</cargaPesoLiquido>
+        <cargaUrfEntradaCodigo>0117600</cargaUrfEntradaCodigo>
+        <cargaUrfEntradaNome>AEROPORTO INTERNACIONAL DE BRASILIA</cargaUrfEntradaNome>
+        <conhecimentoCargaEmbarqueData>20160824</conhecimentoCargaEmbarqueData>
+        <conhecimentoCargaEmbarqueLocal>miami</conhecimentoCargaEmbarqueLocal>
+        <conhecimentoCargaId>04596897625</conhecimentoCargaId>
+        <conhecimentoCargaTipoCodigo>01</conhecimentoCargaTipoCodigo>
+        <conhecimentoCargaTipoNome>AWB - Airway Bill</conhecimentoCargaTipoNome>
+        <conhecimentoCargaUtilizacao>1</conhecimentoCargaUtilizacao>
+        <conhecimentoCargaUtilizacaoNome>Total</conhecimentoCargaUtilizacaoNome>
+        <dataDesembaraco>20160830</dataDesembaraco>
+        <dataRegistro>20160829</dataRegistro>
+        <documentoChegadaCargaCodigoTipo>2</documentoChegadaCargaCodigoTipo>
+        <documentoChegadaCargaNome>Termo de Entrada</documentoChegadaCargaNome>
+        <documentoChegadaCargaNumero>160016657</documentoChegadaCargaNumero>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>28</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>CONHECIMENTO DE CARGA                                       </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>04596897625              </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>01</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>FATURA COMERCIAL                                            </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>AKM47300                 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>29</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>ROMANEIO DE CARGA                                           </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>AKM47300                 </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <embalagem>
+            <codigoTipoEmbalagem>19</codigoTipoEmbalagem>
+            <nomeEmbalagem>CAIXA DE PAPELAO                                            </nomeEmbalagem>
+            <quantidadeVolume>00014</quantidadeVolume>
+        </embalagem>
+        <freteCollect>000000000000000</freteCollect>
+        <freteEmTerritorioNacional>000000000000000</freteEmTerritorioNacional>
+        <freteMoedaNegociadaCodigo>220</freteMoedaNegociadaCodigo>
+        <freteMoedaNegociadaNome>DOLAR DOS EUA</freteMoedaNegociadaNome>
+        <fretePrepaid>000000000063200</fretePrepaid>
+        <freteTotalDolares>000000000063200</freteTotalDolares>
+        <freteTotalMoeda>63200</freteTotalMoeda>
+        <freteTotalReais>000000000204256</freteTotalReais>
+        <icms/>
+        <importadorCodigoTipo>1</importadorCodigoTipo>
+        <importadorCpfRepresentanteLegal>02454484110</importadorCpfRepresentanteLegal>
+        <importadorEnderecoBairro>REGIAO DOS LAGOS (S</importadorEnderecoBairro>
+        <importadorEnderecoCep>73255900</importadorEnderecoCep>
+        <importadorEnderecoComplemento>LOTE  28</importadorEnderecoComplemento>
+        <importadorEnderecoLogradouro>DF-250 000KM 2,7</importadorEnderecoLogradouro>
+        <importadorEnderecoMunicipio>BRASILIA</importadorEnderecoMunicipio>
+        <importadorEnderecoNumero>01</importadorEnderecoNumero>
+        <importadorEnderecoUf>DF</importadorEnderecoUf>
+        <importadorNome>LOJAMUNDI EIRELI</importadorNome>
+        <importadorNomeRepresentanteLegal>MAURICIO BARROS DE ANDRADE</importadorNomeRepresentanteLegal>
+        <importadorNumero>17869444000160</importadorNumero>
+        <importadorNumeroTelefone>61  21947617</importadorNumeroTelefone>
+        <informacaoComplementar>MAWB - 045 96897625
+INVOICE - AKM47300
+PACKING LIST - AKM47300
+TERMO - 16001665-7
+PESO BRUTO - 131,0 Kg
+PESO LIQUIDO - 111,4 kg
+TAXA DE CONVERSÃO DO DÓLAR EM 29/08/2016 - 3,2319
+ALÍQUOTA DE ICMS - 12% MERCADORIA DESTINADA A COMERCIALIZAÇÃO.
+PESSOA AUTORIZADA A CONDUZIR O DESPACHO ADUANEIRO DA IMPORTAÇÃO SRa. KAMILA CRISTIANE OSMUNDO RIBEIRO DE SOUS - 001.504.931-00, MAURICIO BARROS DE ANDRADE CPF: 024.544.841-10, RG: 2698760, CTPS: 03.412 SERIE: 00025/DF, Cláudia Santos da Silva Coutinho,Despachante Aduaneiro, portadora do certificado de habilitação n.º 1D.00.125, inscrita no CPF sob o nº 942.483.031-91, portadora da carteira de identidade nº 5441918. E Jean DLon Borges Coutinho de Carvalho, Despachante Aduaneiro, portador do certificadode habilitação nº 1D.00.126, inscrito no CPF sob o nº 054.416.966-21, portador da carteira de identidade nº M 7.315.505 SSP/MG. TRANSPORTADORA AUTORIZADA A RETIRAR A MERCADORIA NO RECINTO ALFANDEGADO NO TECA AEROPORTO SANTA GENOVEVA-GOIANIA , O PROPRIOIMPORTADOR NA PESSOA DE SEUS FUNCIONÁRIOS DEVIDAMENTE IDENTIFICADOS. OS NUMEROS DE SÉRIE DOS PRODUTOS ESTÃO DESCRITOS NA FATURA COMERCIAL RESPECTIVA AO DESPACHO.</informacaoComplementar>
+        <localDescargaTotalDolares>000000001617186</localDescargaTotalDolares>
+        <localDescargaTotalReais>000000005226581</localDescargaTotalReais>
+        <localEmbarqueTotalDolares>000000001553989</localEmbarqueTotalDolares>
+        <localEmbarqueTotalReais>000000005022327</localEmbarqueTotalReais>
+        <modalidadeDespachoCodigo>1</modalidadeDespachoCodigo>
+        <modalidadeDespachoNome>Normal</modalidadeDespachoNome>
+        <numeroDI>1613434636</numeroDI>
+        <operacaoFundap>N</operacaoFundap>
+        <pagamento>
+            <agenciaPagamento>4420 </agenciaPagamento>
+            <bancoPagamento>033</bancoPagamento>
+            <codigoReceita>0086</codigoReceita>
+            <codigoTipoPagamento>1</codigoTipoPagamento>
+            <contaPagamento>          130019644</contaPagamento>
+            <dataPagamento>20160829</dataPagamento>
+            <nomeTipoPagamento>Débito em Conta</nomeTipoPagamento>
+            <numeroRetificacao>00</numeroRetificacao>
+            <valorJurosEncargos>000000000</valorJurosEncargos>
+            <valorMulta>000000000</valorMulta>
+            <valorReceita>000000000885114</valorReceita>
+        </pagamento>
+        <pagamento>
+            <agenciaPagamento>4420 </agenciaPagamento>
+            <bancoPagamento>033</bancoPagamento>
+            <codigoReceita>1038</codigoReceita>
+            <codigoTipoPagamento>1</codigoTipoPagamento>
+            <contaPagamento>          130019644</contaPagamento>
+            <dataPagamento>20160829</dataPagamento>
+            <nomeTipoPagamento>Débito em Conta</nomeTipoPagamento>
+            <numeroRetificacao>00</numeroRetificacao>
+            <valorJurosEncargos>000000000</valorJurosEncargos>
+            <valorMulta>000000000</valorMulta>
+            <valorReceita>000000000860643</valorReceita>
+        </pagamento>
+        <pagamento>
+            <agenciaPagamento>4420 </agenciaPagamento>
+            <bancoPagamento>033</bancoPagamento>
+            <codigoReceita>5602</codigoReceita>
+            <codigoTipoPagamento>1</codigoTipoPagamento>
+            <contaPagamento>          130019644</contaPagamento>
+            <dataPagamento>20160829</dataPagamento>
+            <nomeTipoPagamento>Débito em Conta</nomeTipoPagamento>
+            <numeroRetificacao>00</numeroRetificacao>
+            <valorJurosEncargos>000000000</valorJurosEncargos>
+            <valorMulta>000000000</valorMulta>
+            <valorReceita>000000000109757</valorReceita>
+        </pagamento>
+        <pagamento>
+            <agenciaPagamento>4420 </agenciaPagamento>
+            <bancoPagamento>033</bancoPagamento>
+            <codigoReceita>5629</codigoReceita>
+            <codigoTipoPagamento>1</codigoTipoPagamento>
+            <contaPagamento>          130019644</contaPagamento>
+            <dataPagamento>20160829</dataPagamento>
+            <nomeTipoPagamento>Débito em Conta</nomeTipoPagamento>
+            <numeroRetificacao>00</numeroRetificacao>
+            <valorJurosEncargos>000000000</valorJurosEncargos>
+            <valorMulta>000000000</valorMulta>
+            <valorReceita>000000000530126</valorReceita>
+        </pagamento>
+        <pagamento>
+            <agenciaPagamento>4420 </agenciaPagamento>
+            <bancoPagamento>033</bancoPagamento>
+            <codigoReceita>7811</codigoReceita>
+            <codigoTipoPagamento>1</codigoTipoPagamento>
+            <contaPagamento>          130019644</contaPagamento>
+            <dataPagamento>20160829</dataPagamento>
+            <nomeTipoPagamento>Débito em Conta</nomeTipoPagamento>
+            <numeroRetificacao>00</numeroRetificacao>
+            <valorJurosEncargos>000000000</valorJurosEncargos>
+            <valorMulta>000000000</valorMulta>
+            <valorReceita>000000000031480</valorReceita>
+        </pagamento>
+        <seguroMoedaNegociadaCodigo>000</seguroMoedaNegociadaCodigo>
+        <seguroTotalDolares>000000000000000</seguroTotalDolares>
+        <seguroTotalMoedaNegociada>000000000000000</seguroTotalMoedaNegociada>
+        <seguroTotalReais>000000000000000</seguroTotalReais>
+        <sequencialRetificacao>00</sequencialRetificacao>
+        <situacaoEntregaCarga>ENTREGA NAO AUTORIZADA</situacaoEntregaCarga>
+        <tipoDeclaracaoCodigo>01</tipoDeclaracaoCodigo>
+        <tipoDeclaracaoNome>CONSUMO</tipoDeclaracaoNome>
+        <totalAdicoes>005</totalAdicoes>
+        <urfDespachoCodigo>0120100</urfDespachoCodigo>
+        <urfDespachoNome>GOIANIA</urfDespachoNome>
+        <valorTotalMultaARecolherAjustado>000000000000000</valorTotalMultaARecolherAjustado>
+        <viaTransporteCodigo>04</viaTransporteCodigo>
+        <viaTransporteMultimodal>N</viaTransporteMultimodal>
+        <viaTransporteNome>AÉREA</viaTransporteNome>
+        <viaTransporteNomeTransportador>LAN CHILE CARGO</viaTransporteNomeTransportador>
+        <viaTransportePaisTransportadorCodigo>105</viaTransportePaisTransportadorCodigo>
+        <viaTransportePaisTransportadorNome>BRASIL</viaTransportePaisTransportadorNome>
+    </declaracaoImportacao>
+</ListaDeclaracoes>

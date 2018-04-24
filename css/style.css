@@ -1,0 +1,66 @@
+
+
+#conteiner{
+    position: absolute;
+    height: 600px;
+    width: 580px;
+    background: #737373;
+    filter:alpha(opacity=50); opacity:0.8;
+    left: 30%;
+    top: 20%;
+}
+
+body{
+    background-image: url("img/black-wallpaper-13.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#formINdex{
+    position: absolute;
+    top:20%;
+    left: 26%;
+    background: #fff;
+    width: 750px;
+    padding: 50px;
+    filter:alpha(opacity=10); opacity:1.0;
+    box-shadow:10px 10px 10000px 10px #5bc0de ;
+}
+h3, h4, input{position: relative; font-family: Arial, Helvetica, sans-serif; padding-bottom: 10px; padding-top: 10px;}
+#inptNumeroDI{
+    text-align: center;
+}
+
+#buttonImport{position: relative; text-align: right;}
+
+#infoDi{
+    background: red;
+    position: relative;
+    float: right;
+    left:2px;
+    top:5px;
+}
+
+#conteiner2{
+    position: relative;
+    width: 345px;
+    background: #DDD;
+    left: 35%;
+    top: 40%;
+    padding: 10px;
+    padding-top: 20px;
+
+}
+
+table {
+    width: 100%;
+    padding: 0;
+    border: 0 solid #000;
+    position: relative;
+    text-align: center;
+
+}
+
+#fieldsetAdicoes{
+    padding: 0;
+    position: relative;
+}
